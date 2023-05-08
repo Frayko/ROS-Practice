@@ -1,0 +1,2 @@
+turtles_runner
+-DCATKIN_DEVEL_PREFIX=/home/alex/roslab/devel -DCMAKE_INSTALL_PREFIX=/home/alex/roslab/install -G Unix Makefiles

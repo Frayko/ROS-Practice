@@ -1,0 +1,8 @@
+prefix=/home/alex/roslab/install
+
+Name: turtles_runner
+Description: Description of turtles_runner
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
