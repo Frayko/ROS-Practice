@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import rospy
-from geometry_msgs.msg import Twist, Pose
+from geometry_msgs.msg import Twist
 from turtlesim.msg import Pose as TurtlePose
 from turtlesim.srv import Spawn
 import math
